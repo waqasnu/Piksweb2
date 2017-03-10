@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{100B8969-FAC5-094D-3E33-3B647F6356CA}") = "PiksQuiz", "Assembly-CSharp.csproj", "{07E6A8E2-A655-A79A-E12D-D0CFABE93139}"
+EndProject
+Project("{100B8969-FAC5-094D-3E33-3B647F6356CA}") = "PiksQuiz", "Assembly-CSharp-Editor.csproj", "{08817DD1-00BA-D1A3-83AE-A9892CF3CCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E6A8E2-A655-A79A-E12D-D0CFABE93139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E6A8E2-A655-A79A-E12D-D0CFABE93139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E6A8E2-A655-A79A-E12D-D0CFABE93139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E6A8E2-A655-A79A-E12D-D0CFABE93139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08817DD1-00BA-D1A3-83AE-A9892CF3CCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08817DD1-00BA-D1A3-83AE-A9892CF3CCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08817DD1-00BA-D1A3-83AE-A9892CF3CCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08817DD1-00BA-D1A3-83AE-A9892CF3CCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
